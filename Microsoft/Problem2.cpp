@@ -1,3 +1,5 @@
+//Link : https://leetcode.com/problems/bulls-and-cows/
+
 #include<bits/stdc++.h>
 using namespace std;
 
